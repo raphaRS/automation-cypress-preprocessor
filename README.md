@@ -1,6 +1,6 @@
 # automation-cypress-preprocessor
-Repositorio de estudos com  cypress, cucumber e  cypress-preprocessor
-Requisitos: Visual studios code, node-js, cypress, cucumber e cypress-cucumber-preprocessor
+``Repositorio de estudos com cypress, cucumber e cypress-preprocessor``
+``Requisitos: Visual studios code, node-js, cypress, cucumber e cypress-cucumber-preprocessor``
  # Guias #
  # Instalação node:
  https://www.alura.com.br/artigos/como-instalar-node-js-windows-linux-macos?gclid=Cj0KCQiA2-2eBhClARIsAGLQ2RkJNTdLW5RPPfFGpxyIro2VIy-_-dSofDs7DLEwTXV88DP_4xlPOAgaAp5nEALw_wcB
