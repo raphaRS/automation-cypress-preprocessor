@@ -6,6 +6,6 @@ When colocar usuario
 Then habilita o campo senha
 
 Scenario: Senha
-Given que estou no campo de senha
+Given que estou no campo de teste
 When colocar senha
-Then habilita o campo senha
+Then habilita o campo teste
