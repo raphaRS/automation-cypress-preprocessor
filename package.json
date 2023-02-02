@@ -16,7 +16,8 @@
   "homepage": "https://github.com/raphaRS/automation-cypress-preprocessor#readme",
   "dependencies": {
     "bundle": "^2.1.0",
-    "cucumber": "^6.0.7"
+    "cucumber": "^6.0.7",
+    "cypress": "^12.5.1"
   },
   "scripts": {
     "test": "cucumber-js"
