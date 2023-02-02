@@ -3,7 +3,7 @@
 ``Requisitos: Visual studios code, node-js, cypress, cucumber e cypress-cucumber-preprocessor``
  # Guias #
  # Instalação node:
- https://www.alura.com.br/artigos/como-instalar-node-js-windows-linux-macos?gclid=Cj0KCQiA2-2eBhClARIsAGLQ2RkJNTdLW5RPPfFGpxyIro2VIy-_-dSofDs7DLEwTXV88DP_4xlPOAgaAp5nEALw_wcB
+ https://www.alura.com.br/artigos/como-instalar-node-js-windows-linux-macos?gclid=Cj0KCQiA2-2eBhClARIsAGLQ2RkJNTdLW5RPPfFGpxyIro2VIy-_-dSofDs7DLEwTXV88DP_4xlPOAgaAp5nEALw_wcB](https://nodejs.org/pt-br/download/package-manager/)
 # Instalação cucumber
 https://bradhick.medium.com/cucumber-js-bdd-na-pr%C3%A1tica-com-javascript-a398d7b010b1
 # Instalação cypress:
