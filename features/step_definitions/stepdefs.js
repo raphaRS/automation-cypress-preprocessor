@@ -10,11 +10,11 @@ When('colocar usuario', function() {
 Then('habilita o campo senha', function() {
 })
 
-Given('que estou no campo de teste', function() {
+Given('que estou no campo de senha', function() {
 })
 
 When('colocar senha', function() {
 })
 
-Then('habilita o campo teste', function() {
+Then('habilita o campo login', function() {
 });

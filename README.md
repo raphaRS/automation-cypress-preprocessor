@@ -16,7 +16,8 @@ https://bradhick.medium.com/cucumber-js-bdd-na-pr%C3%A1tica-com-javascript-a398d
 https://docs.cypress.io/guides/getting-started/installing-cypress
 # Instalação cypress-preprocessor
 https://www.npmjs.com/package/cypress-cucumber-preprocessor
-
+# Dicas de uso Cypress+cucumber
+https://cwi.com.br/blog/testes-automatizados-cypress-e-cucumber/
 # Extensão vscode
 Cucumber
 Cypress Snippets
