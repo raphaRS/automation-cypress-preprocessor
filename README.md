@@ -1,7 +1,8 @@
 # automation-cypress-preprocessor
-Repositorio de estudos com  cypress, cucumber e  cypress-preprocessor
+Repositorio de estudos com cypress, cucumber e cypress-preprocessor
 
 Requisitos:
+ NodeJs
  Cypress
  Cucumber
  Cypress-cucumber-preprocessor
@@ -16,7 +17,7 @@ https://docs.cypress.io/guides/getting-started/installing-cypress
 # Instalação cypress-preprocessor
 https://www.npmjs.com/package/cypress-cucumber-preprocessor
 
-# Extensão - VS
+# Extensão vscode
 Cucumber
 Cypress Snippets
 ESLint
