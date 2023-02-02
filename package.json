@@ -1,0 +1,27 @@
+{
+  "name": "automation-cypress-preprocessor",
+  "version": "1.0.0",
+  "description": "Repositorio de estudos com  cypress, cucumber e  cypress-preprocessor",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raphaRS/automation-cypress-preprocessor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raphaRS/automation-cypress-preprocessor/issues"
+  },
+  "homepage": "https://github.com/raphaRS/automation-cypress-preprocessor#readme",
+  "dependencies": {
+    "bundle": "^2.1.0",
+    "cucumber": "^6.0.7"
+  },
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "devDependencies": {
+    "cypress-cucumber-preprocessor": "^4.3.1"
+  }
+}
