@@ -21,3 +21,4 @@ Cucumber
 Cypress Snippets
 ESLint
 Prettier - Code  formatter
+
