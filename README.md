@@ -16,9 +16,8 @@ https://docs.cypress.io/guides/getting-started/installing-cypress
 # Instalação cypress-preprocessor
 https://www.npmjs.com/package/cypress-cucumber-preprocessor
 
-# Extençôes
+# Extensão - VS
 Cucumber
 Cypress Snippets
 ESLint
 Prettier - Code  formatter
-
