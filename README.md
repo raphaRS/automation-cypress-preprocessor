@@ -1,6 +1,5 @@
 # automation-cypress-preprocessor
 Repositorio de estudos com  cypress, cucumber e  cypress-preprocessor
-
 Requisitos: Visual studios code, node-js, cypress, cucumber e cypress-cucumber-preprocessor
  # Guias #
  # Instalação node:
