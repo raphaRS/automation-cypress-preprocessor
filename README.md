@@ -16,7 +16,7 @@ https://docs.cypress.io/guides/getting-started/installing-cypress
 # Instalação cypress-preprocessor
 https://www.npmjs.com/package/cypress-cucumber-preprocessor
 
-# Extençôes
+# Extensão vscode
 Cucumber
 Cypress Snippets
 ESLint
