@@ -10,7 +10,7 @@ Given('hello', function() {
 
 When('i search a planet', function(){
 cy.get("@results").then(res => {
-  const planet = res.body.results
+  const planet = res.body.results;
 })
 })
 
