@@ -1,4 +1,4 @@
-# automation-cypress-preprocessor
+# Automation-cypress-preprocessor
 Repositorio de estudos com cypress e cypress-preprocessor
 
 Requisitos:
