@@ -1,4 +1,4 @@
-# Automation-cypress-preprocessor
+# Automation-cypress-preprocessor API
 Repositorio de estudos com cypress e cypress-preprocessor
 
 Requisitos:
