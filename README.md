@@ -2,8 +2,8 @@
 Repositorio de estudos com cypress e cypress-preprocessor
 
 Requisitos:
- NodeJs
- Cypress
+ NodeJs,
+ Cypress,
  Cypress-cucumber-preprocessor
  
  # Guias #
