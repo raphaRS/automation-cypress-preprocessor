@@ -16,6 +16,6 @@ https://www.npmjs.com/package/cypress-cucumber-preprocessor
 # Dicas de uso Cypress+cucumber
 https://cwi.com.br/blog/testes-automatizados-cypress-e-cucumber/
 # Extensão vscode
-Cypress Snippets
-ESLint
+Cypress Snippets,
+ESLint,
 Prettier - Code  formatter
